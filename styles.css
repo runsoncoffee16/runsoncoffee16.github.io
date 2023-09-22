@@ -1,0 +1,55 @@
+* {
+  font-family: Lucida, sans-serif;
+  font-weight: 200;
+  background-color: #F2E8FF;
+}
+
+h1 {
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  color: #491694;
+  margin: 50px auto;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 30px;
+  color: #9C59FF;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 21px;
+  color: #7C38E0;
+}
+
+table {
+  border: 1px solid;
+  table-layout: auto;
+  width: 600px;
+  border-collapse: collapse;
+  margin: auto 2px 80px 2px;
+}
+ 
+thead td {
+  display: table-cell;
+  border: 1px solid black;
+  text-align: center;
+  font-weight: bold;
+  color: #96965C;
+  background-color: #E3E2B6;
+  padding: 5px;
+} 
+
+td {
+  border: 1px solid;
+  padding: 5px;
+}
+
+.code {
+  font-family: monospace;
+  background-color: #FFE8B6;
+}
